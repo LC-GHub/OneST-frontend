@@ -52,7 +52,7 @@ const Uen = () => {
 
     return (
       <Container fluid className="vh-100 center-box">
-        <FloatButton onClick = {handleOnBackClick}className="float-button" type="primary" shape="rectangle" icon={<LeftOutlined />} />
+        <FloatButton onClick = {handleOnBackClick} className="float-button" type="primary" shape="rectangle" icon={<LeftOutlined />} />
         <Row>
           <Col className="d-flex justify-content-center align-items-center flex-column">
             <h1>Type the UEN you want to check here.</h1>
