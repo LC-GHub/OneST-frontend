@@ -11,3 +11,8 @@ Visit: [OneST](https://onest-frontend.onrender.com/) OR https://onest-frontend.o
 6. After installation is completed, run ```npm start``` to start the app.
 7. Navigate to [localhost](http://localhost:3000) on your browser to view the app
 8. Run the backend, read [OneST](https://github.com/LC-GHub/OneST) 's READme.md to run the backend code.
+
+
+
+https://github.com/LC-GHub/OneST-frontend/assets/92838415/fa964970-7e36-484e-8a06-7762921ba622
+
