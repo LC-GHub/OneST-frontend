@@ -1,6 +1,8 @@
 ## This app is hosted
 Visit: [OneST](https://onest-frontend.onrender.com/) OR https://onest-frontend.onrender.com/
 
+Note: This app is being hosted on a free tier instance, it may be disabled after a period of inactivity. If so, please contact me to re-start the instance or attempt to run it locally.
+
 ## Running Lionel Chew's OneST frontend locally
 
 1. Clone this repo by running ```git clone https://github.com/LC-GHub/OneST-frontend.git``` in your desired directory
@@ -11,3 +13,15 @@ Visit: [OneST](https://onest-frontend.onrender.com/) OR https://onest-frontend.o
 6. After installation is completed, run ```npm start``` to start the app.
 7. Navigate to [localhost](http://localhost:3000) on your browser to view the app
 8. Run the backend, read [OneST](https://github.com/LC-GHub/OneST) 's READme.md to run the backend code.
+
+
+
+https://github.com/LC-GHub/OneST-frontend/assets/92838415/fa964970-7e36-484e-8a06-7762921ba622
+
+Tech stack:
+![image](https://github.com/LC-GHub/OneST-frontend/assets/92838415/f91c5e2d-3d8a-4bb9-bd1d-258935e3f1ab)
+
+
+
+
+
