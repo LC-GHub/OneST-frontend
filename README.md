@@ -1,6 +1,8 @@
 ## This app is hosted
 Visit: [OneST](https://onest-frontend.onrender.com/) OR https://onest-frontend.onrender.com/
 
+Note: This app is being hosted on a free tier instance, it may be disabled after a period of inactivity. If so, please contact me to re-start the instance or attempt to run it locally.
+
 ## Running Lionel Chew's OneST frontend locally
 
 1. Clone this repo by running ```git clone https://github.com/LC-GHub/OneST-frontend.git``` in your desired directory
