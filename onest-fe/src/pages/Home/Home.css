@@ -1,0 +1,25 @@
+.top-half {
+    transition: background-color 0.3s ease;
+  }
+  
+  .bottom-half {
+    transition: background-color 0.3s ease;
+  }
+  
+  .clickable {
+    cursor: pointer;
+  }
+  
+  .top-half:hover {
+    background-color: #add8e6;
+  }
+  
+  .bottom-half:hover {
+    background-color: #ffcccb;
+  }
+
+  .divider {
+    height: 5px;
+    background-color: gray;
+  }
+  

@@ -1,0 +1,42 @@
+.center-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.input-box {
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.submit-button {
+    margin-top: 5%;
+    width: 50%;
+}
+
+.response-message {
+    margin-top: 10px;
+    color: black;
+}
+
+.footer {
+    width: 100%;
+    background-color: #ffffff;
+}
+
+
+
+@media (max-width: 768px) {
+    .input-box, .submit-button {
+        width: 100%;
+    }
+}
+
+.float-button {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 1000;
+}
