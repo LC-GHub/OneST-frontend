@@ -1,0 +1,3 @@
+REACT_APP_BASE_URL=https://onest-9usa.onrender.com
+REACT_APP_CHECK_UEN_SUB_URL=/checkuen
+REACT_APP_CHECK_WEATHER=/weather
