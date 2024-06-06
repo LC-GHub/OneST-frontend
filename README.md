@@ -19,8 +19,8 @@ Note: This app is being hosted on a free tier instance, it may be disabled after
 https://github.com/LC-GHub/OneST-frontend/assets/92838415/fa964970-7e36-484e-8a06-7762921ba622
 
 Tech stack:
-![image](https://github.com/LC-GHub/OneST-frontend/assets/92838415/8e95865f-a3d1-4a70-ac2e-c73bf3a39b20)
-![image](https://github.com/LC-GHub/OneST-frontend/assets/92838415/98188a43-5402-443e-bd11-8f4b2be9d732)
+![image](https://github.com/LC-GHub/OneST-frontend/assets/92838415/f91c5e2d-3d8a-4bb9-bd1d-258935e3f1ab)
+
 
 
 
